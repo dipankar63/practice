@@ -1,4 +1,4 @@
-package days30coding;
+
 
 public class FindMinimumPartition {
 	

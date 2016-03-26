@@ -1,4 +1,4 @@
-package days30coding;
+
 
 public class HamilatonianCycle {
 	static boolean isSafe(int[][] graph, int v, int path[], int pos) {
